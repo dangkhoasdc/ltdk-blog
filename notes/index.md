@@ -1,5 +1,8 @@
 ---
-title: About these notes
+title: Notes
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+
+Danh sách chủ đề và bài viết:
+
+- [[dotw | Day of The Week]]
+
