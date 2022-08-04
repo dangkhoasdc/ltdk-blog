@@ -2,7 +2,6 @@
 title: Notes
 ---
 
-Danh sách chủ đề và bài viết:
+Machine Learning:
 
-- [[dotw | Day of The Week]]
-
+- [[mobileone | Reading: MobileOne Backbone]]
