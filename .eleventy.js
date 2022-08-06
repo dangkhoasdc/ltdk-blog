@@ -35,6 +35,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.setUseGitIgnore(false);
 
+    const mathjaxPlugin = require("eleventy-plugin-mathjax");
+    eleventyConfig.addPlugin(mathjaxPlugin);
+
     return {
         dir: {
             input: "./",
