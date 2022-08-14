@@ -1,5 +1,8 @@
 
 ## Favorite Books
+### Mathematics 
+- Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. [Mathematics for machine learning](https://mml-book.github.io/book/mml-book.pdf). Cambridge University Press, 2020.
+- Graham, Ronald L., et al. "[Concrete mathematics: a foundation for computer science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html)." Computers in Physics 3.5 (1989): 106-107.
 ### Algorithms
 
 - Donald Knuth. [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html). 
@@ -14,3 +17,8 @@
 
 - Dunn, Fletcher, and Ian Parberry. [3D math primer for graphics and game development](https://gamemath.com). CRC Press, 2011.
 - Shirley, Peter. "[Ray tracing in one weekend.](https://raytracing.github.io/books/RayTracingInOneWeekend.html)" Amazon Digital Services LLC 1 (2018).
+
+### Programming Languages
+
+- Alexandrescu, Andrei. The D programming language. Boston: Addison-Wesley, 2010.
+- Gottschling, Peter. Discovering modern C++: an intensive course for scientists, engineers, and programmers. Addison-Wesley Professional, 2015.
