@@ -1,5 +1,6 @@
 
-List of my favorite algorithms textbooks:
+## Favorite Books
+### Algorithms
 
 - Donald Knuth. [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html). 
 - [Algorithms](https://algs4.cs.princeton.edu/home/) series, Robert Sedgewick:
@@ -9,3 +10,7 @@ List of my favorite algorithms textbooks:
 - Sedgewick, Robert, and Kevin Wayne. [Computer science: An interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/). Addison-Wesley Professional, 2016.
 - Jeff Erickson. [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
+### Computer Graphics 
+
+- Dunn, Fletcher, and Ian Parberry. [3D math primer for graphics and game development](https://gamemath.com). CRC Press, 2011.
+- Shirley, Peter. "[Ray tracing in one weekend.](https://raytracing.github.io/books/RayTracingInOneWeekend.html)" Amazon Digital Services LLC 1 (2018).

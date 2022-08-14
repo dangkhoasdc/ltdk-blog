@@ -8,4 +8,4 @@ Machine Learning:
 - [[dlp2nd | Review: Deep Learning with Python, 2nd]]
 
 Algorithms:
-- [[favalgs | My favorite algorithms textbooks]]
+- [[favtextbooks | My favorite textbooks]]
